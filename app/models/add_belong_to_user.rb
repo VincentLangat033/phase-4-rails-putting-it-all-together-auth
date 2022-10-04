@@ -1,0 +1,2 @@
+class AddBelongToUser < ApplicationRecord
+end
